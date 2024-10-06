@@ -5,23 +5,23 @@ Reference Video: https://www.youtube.com/watch?v=6hQF80_xMkQLinks to an external
 
 The following were the steps I followed to build the cloud chat bot
 
-    ![01 - Agent Builder.png](./images/01 - Agent Builder.png)
+    ![01_Agent_Builder.png](./images/01_Agent_Builder.png)
 
-    ![02 - Create App.png](./images/02 - Create App.png)
+    ![02_Create_App.png](./images/02_Create_App.png)
 
-    ![03 - Select Type.png](./images/03 - Select Type.png)
+    ![03_Select_Type.png](./images/03_Select_Type.png)
 
-    ![04 - Name Agent.png](./images/04 - Name Agent.png)
+    ![04_Name_Agent.png](./images/04_Name_Agent.png)
 
-    ![05 - Create Data Store.png](./images/05 - Create Data Store.png)
+    ![05_Create_Data_Store.png](./images/05_Create_Data_Store.png)
 
-    ![06 - Select File.png](./images/06 - Select File.png)
+    ![06_Select_File.png](./images/06_Select_File.png)
 
-    ![07 - Test Chat.png](./images/07 - Test Chat.png)
+    ![07_Test_Chat.png](./images/07_Test_Chat.png)
 
-    ![08 - Embeded Code.png](./images/08 - Embeded Code.png)
+    ![08_Embeded_Code.png](./images/08_Embeded_Code.png)
 
-    ![09 - Github Deployment.png](./images/09 - Github Deployment.png)
+    ![09_Github_Deployment.png](./images/09_Github_Deployment.png)
 
 This is where the chat bot is currently deployed: https://fbastos231.github.io/CIS579-HW2/
 
