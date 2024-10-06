@@ -36,7 +36,7 @@ This is where the chat bot is currently deployed: https://fbastos231.github.io/C
 
 - How will you gather feedback from users to improve the chatbot over time?
 
-    After each interaction, I could prompt users to provide quick feedback on their experience, which would offer valuable insights into areas needing enhancement. Additionally, I would analyze recurring feedback trends and implement updates to address common issues, ensuring the chatbot evolves to meet user needs over time.
+    After each interaction, I would prompt users to provide quick feedback on their experience, which would offer valuable insights into areas needing enhancement. Additionally, I would analyze recurring feedback trends and implement updates to address common issues, ensuring the chatbot evolves to meet user needs over time.
 
 - How will you test the chatbot to ensure it performs as expected?
 
@@ -49,9 +49,26 @@ This is where the chat bot is currently deployed: https://fbastos231.github.io/C
 2. Create a LOCAL Python AI Chatbot in Minutes using Ollama
 Reference Video: https://www.youtube.com/watch?v=d0o89z134CQLinks to an external site.
 
+please see zip file attached with code for local chatbox. It can also be found at: https://github.com/fbastos231/CIS579-HW2
+
 
 - What is the primary purpose or goal of your chatbot? Is it informational, conversational, or transactional?
+
+    I followed every step in the reference video so this chat bot would be conversational. It contains all of the information it was trained on by meta.  
+
 - How did you feel working with Local LLM and using VS Code.
+
+    I felt more confortable working in the local enviroment as there is less risk to the data shared with the model. Also, no need to provide a creditcard to start using the model.
+
 - How will you gather feedback from users to improve the chatbot over time?
+
+    No different from the answer above: After each interaction, I would prompt users to provide quick feedback on their experience. However, more thought would be needed to devise a way to collect and analyse this data since this model is running locally.
+
 - How will you test the chatbot to ensure it performs as expected?
+
+    Here the chat history could be saved in order to be analyze.
+
 - What are the ethical considerations to keep in mind when designing and deploying the chatbot?
+
+    Same as above, it is crucial to prioritize user privacy and data security by transparently informing users about data collection practices and implementing robust protection measures.
+
