@@ -5,23 +5,23 @@ Reference Video: https://www.youtube.com/watch?v=6hQF80_xMkQLinks to an external
 
 The following were the steps I followed to build the cloud chat bot
 
-![01 - Agent Builder.png](./images/01 - Agent Builder.png)
+    ![01 - Agent Builder.png](./images/01 - Agent Builder.png)
 
-![02 - Create App.png](./images/02 - Create App.png)
+    ![02 - Create App.png](./images/02 - Create App.png)
 
-![03 - Select Type.png](./images/03 - Select Type.png)
+    ![03 - Select Type.png](./images/03 - Select Type.png)
 
-![04 - Name Agent.png](./images/04 - Name Agent.png)
+    ![04 - Name Agent.png](./images/04 - Name Agent.png)
 
-![05 - Create Data Store.png](./images/05 - Create Data Store.png)
+    ![05 - Create Data Store.png](./images/05 - Create Data Store.png)
 
-![06 - Select File.png](./images/06 - Select File.png)
+    ![06 - Select File.png](./images/06 - Select File.png)
 
-![07 - Test Chat.png](./images/07 - Test Chat.png)
+    ![07 - Test Chat.png](./images/07 - Test Chat.png)
 
-![08 - Embeded Code.png](./images/08 - Embeded Code.png)
+    ![08 - Embeded Code.png](./images/08 - Embeded Code.png)
 
-![09 - Github Deployment.png](./images/09 - Github Deployment.png)
+    ![09 - Github Deployment.png](./images/09 - Github Deployment.png)
 
 This is where the chat bot is currently deployed: https://fbastos231.github.io/CIS579-HW2/
 
